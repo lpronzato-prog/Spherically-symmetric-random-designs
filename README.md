@@ -2,7 +2,7 @@
 
 ## Overview
 This repository provides MATLAB implementations for the construction of random designs with small $L_s$-Mean Quantisation Error of a
-spherically symmetric distribution $\mu$ in a space of large dimension $d$. Three cases are considered: $\mu$ is uniform in the unit ball $B_d(0,1)$, $\mu$ is uniform on the Euclidean sphere $S_{d-1}(0,1)$, or $\mu$ is spherically normal $N(0,I_d/d)$. The designs consists of $n$ points independently distributed, uniformly in a ball $B_d(0,R)$ or on a sphere $S_{d-1}(0,R)$, or with a normal distribution $N(0,\sigma I_d/d)$. 
+spherically symmetric distribution $\mu$ in a space of large dimension $d$. Three cases are considered: $\mu$ is uniform in the unit ball $B_d(0,1)$, $\mu$ is uniform on the Euclidean sphere $S_{d-1}(0,1)$, or $\mu$ is spherically normal $N(0,I_d/d)$. The designs consist of $n$ points independently distributed, uniformly in a ball $B_d(0,R)$ or on a sphere $S_{d-1}(0,R)$, or with a normal distribution $N(0,\sigma I_d/d)$. 
 
 The script Example_random_designs_sphere_and_ball.m provides an example of constructions. All `.m` files required to determine the **optimal values** of $R$ and $\sigma$ as functions of $d$, $n$, and $s$ are provided.
  
