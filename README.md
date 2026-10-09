@@ -21,5 +21,5 @@ The script Example_construction_optimal_mixure.m provides examples of constructi
 ## Acknowledgments
 If you use these functions in your research, please cite the following paper:
 "L. Pronzato, A. Zhigljavsky: Optimal random quantisers for spherically symmetric distributions, 
-https://arxiv.org/ZZZ, 
+https://arxiv.org/pdf/2610.11772 
 https://hal.science/hal-05786349
